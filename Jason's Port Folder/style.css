@@ -1,0 +1,32 @@
+header, main, footer{
+    font-family: "Lucida Handwriting";
+    text-align: center;
+}
+
+header, h1, h2, h3{
+    color: #b56576
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.box {
+    margin: 20px 10%;
+    background-color: #eee;
+    padding: 10px;
+    text-align: center;
+  }
+
+ul, ol, li{
+    text-align: left;
+}
+
+p{
+    font-size: medium;
+}
+a:link    { color: #B6F7BC;  }
+a:visited { color: #184E37; }
+a:hover   { color: #57CC99;}
+a:active  { color: #050F0F; }
